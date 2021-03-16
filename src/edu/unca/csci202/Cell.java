@@ -3,7 +3,6 @@ package edu.unca.csci202;
 /**
  * Cell is what the Gameboard class uses as each individual cell.
  * @author Jordan Satterfield
- * @version 1.2
  */
 
 public class Cell {
